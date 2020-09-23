@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="but1">Карта</string>
+    <string name="but2">Хватит</string>
+    <string name="but3">Рестарт</string>
+    <string name="but4">Выход</string>
+    <string name="but5">Старт</string>
+    <string name="but6">Сделка</string>
+</resources>
