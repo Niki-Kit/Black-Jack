@@ -2,3 +2,4 @@
 
 This game is my first experience, both in writing android applications, and in general Java applications.
 Test text.
+Was developed in Android studio.
